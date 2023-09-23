@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+}
+
+.container{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    
+}
+
+.borderDiv{
+    border: 2px solid black;
+    padding: 5px;
+    background-color: white;
+}
+
+.rgbDiv{
+    text-align: center;
+}
+
+.refreshBtn{
+    margin-top: 15px;
+    background-color: black;
+    padding: 5px;
+    border: none;
+}
+
+.copyBtn{
+    border: none;
+    background-color: #fff;
+}
